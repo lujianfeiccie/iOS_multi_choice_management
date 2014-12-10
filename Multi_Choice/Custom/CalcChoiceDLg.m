@@ -47,7 +47,7 @@
         }
         else if([m_filename isEqualToString:@"all_word"])
         {
-            [m_xmlHelper loadMultiple:4:
+            [m_xmlHelper loadMultiple:5:
              @"2014_04_word",
              @"2013_04_word",
              @"2012_04_word",
