@@ -72,11 +72,11 @@
 <choice>安全</choice>
 <choice>商业</choice>
 </question>
-<question title="13.根据管理方格图理论，很少关心生产、非常关心人的领导方式是(2014年4月)" answer="1.9型" note="">
-<choice>1.1型</choice>
-<choice>9.9型</choice>
-<choice>1.9型</choice>
-<choice>9.1型</choice>
+<question title="13.根据管理方格图理论，很少关心生产、非常关心人的领导方式是(2014年4月)" answer="１.9型" note="">
+<choice>１.1型</choice>
+<choice>９.9型</choice>
+<choice>１.9型</choice>
+<choice>９.1型</choice>
 </question>
 <question title="14.沟通形式不拘、直接明了、速度很快，容易及时了解到“内幕新闻”的沟通方式是(2014年4月)" answer="非正式沟通" note="">
 <choice>上向沟通</choice>
